@@ -77,6 +77,7 @@ To ensure data quality, the following steps were performed:
 - Expand analysis with customer segmentation
 
 ---
+linkedin - https://www.linkedin.com/in/supriya-yadav-b1564b319
 
 **Author**: *Supriya Yadav*  
   
